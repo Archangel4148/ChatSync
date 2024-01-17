@@ -4,5 +4,5 @@ ChatSync: Effortlessly connect Groupme and Discord messages. Comprehensive docum
 
 Step 1: Find a method to link a single Groupme to a single Discord channel
  -- Potential solutions:    
- [https://github.com/jerbob/groupme-discord]([url](https://github.com/jerbob/groupme-discord))
+ [https://github.com/jerbob/groupme-discord]([url](https://github.com/jerbob/groupme-discord))    
 [https://github.com/alejzeis/groupme-discord-bridge]([url](https://github.com/jerbob/groupme-discord)https://github.com/jerbob/groupme-discord)

@@ -7,6 +7,9 @@ Step 1: Find a method to link a single Groupme to a single Discord channel
  https://dev.groupme.com/docs/v3 (Groupme API documentation)         
  https://dev.groupme.com/tutorials/bots (Basic bot setup tutorial)       
 
+ -- Useful Libraries:    
+ https://pypi.org/project/GroupyAPI/ (Python library for Groupme API)       
+
 
  Progress:   
   - Created a groupme bot using the official page, and connected it to a test group     

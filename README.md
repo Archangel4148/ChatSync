@@ -5,7 +5,8 @@ ChatSync: Effortlessly connect Groupme and Discord messages. Comprehensive docum
 Step 1: Find a method to link a single Groupme to a single Discord channel    
  -- Helpful Links:      
  https://dev.groupme.com/docs/v3 (Groupme API documentation)         
- https://dev.groupme.com/tutorials/bots (Basic bot setup tutorial)       
+ https://dev.groupme.com/tutorials/bots (Basic bot setup tutorial)    
+ https://cs-mst.gitlab.io/index/Classes/Networking/Content/02-Application.html#network-applications (Taylor's Networking Stuff)         
 
  -- Useful Libraries:    
  https://pypi.org/project/GroupyAPI/ (Python library for Groupme API)       
